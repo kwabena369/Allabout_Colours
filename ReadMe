@@ -1,0 +1,16 @@
+# Color Detection with OpenCV
+
+This project uses OpenCV and NumPy to detect specified colors in a video feed from your webcam.
+
+## Requirements
+
+- Python 3.x
+- OpenCV
+- NumPy
+
+## Installation
+1. Install the required packages:
+    ```sh
+    pip install opencv-python-headless numpy
+    ```
+
